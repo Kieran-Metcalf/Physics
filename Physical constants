@@ -1,0 +1,159 @@
+# This is a Python3 file
+print(This is a Python3 File)
+# This is a list of fundamental physical constants without units
+print (This is a list of fundamental physical constants without units)
+# Source Institute of Physics Resources Kayle and Laybe
+print (Source Institute of Physics Resources Kayle and Laybe)
+
+# Constant                                                #   symbol            unit
+Speed_of_light_in_vacuum=299 792 458                      #   c                 m s-1
+Planck_constant=6.62606957 ×10**(−34)                     #   h                 J s
+Planck_constant_over_2π=1.054 571 726 ×10−34              #   h bar             J s
+Elementary_charge=1.602176565*10**19                      #   e                 C
+Mass_of_electron=9.10938291*10**(−31)                     #   m<subscript>e     kg
+Avogadro_constant=6.02214129*10**23                       #   NA                mol−1
+Atomic_mass_constant=1.660538921*10**(−27)                #   mu                kg
+Faraday_constant=96485.3365                               #   F(=NAe)           C mol−1
+Newtonian_constant_of_gravitation=6.673 84 ×10−11         #   m3 kg−1s−2        G
+
+# Spectroscopy and atoms
+Charge_over_mass_ratio_of_electron=−1.758820088*10**11    #   −e/m<subscript>e   C kg−1
+Fine_structure_constant=7.2973525698*10**(−3)             #   α
+reciprocal_of_the_Fine_structure_constant=137.035999074   #   α−1
+Rydberg_constant_for_a_fixed_nucleus=10973731.568539      #   R∞                 m−1
+Bohr_radius=5.2917721092*10**(−11)                        #   a<subscript>0      m
+Compton_wavelength_of_electron=2.4263102389*10**(−12)     #   λc                 m
+
+#Compton wavelength of electron (λc/2π)
+#
+#ƛc
+#
+#  386.159 268 00 ×10−15
+#
+#m
+#
+#       0.00065
+#
+#Classical ‘radius’ of electron 
+#    (μ0c2/4π)e2/mc2
+#
+#re
+#  2.817 940 3267 ×10−15
+#
+#
+#m
+#Thomson cross-section 8πre2/3
+#
+#σe
+#
+#  0.665 245 8734 ×10−28
+#
+#m2
+#Bohr magneton eħ/2me
+#
+#μB
+#
+#  927.400 968 ×10−26
+#
+#J T−1
+#Nuclear magneton eħ/2mp
+#
+#μN
+#
+#  5.050 783 53 ×10−27
+#
+#J T−1
+#
+#     0.022
+#
+#Ratio of masses proton/electron
+#
+#mp/me
+#
+#  1836.152 672 45
+#Gyromagnetic ratio of proton
+#
+#γP
+#
+#  2.675 222 005 ×108
+#
+#s−1 T−1
+#
+#     0.024
+#
+#Shielded gyromagnetic ratio of proton
+#
+#γ′P
+#
+#  2.675 153 268 ×108
+#
+#s−1 T−1		 	 	
+#Thermal Constants		 	 	 
+#Molar gas constant	
+#R
+#
+#  8.314 4621
+#
+#J mol−1 K−1
+#Loschmidt constant 
+#(number of molecules in 1 m3 of ideal gas at stp)	
+#
+#n0
+#
+#  2.686 7805 ×1025
+#
+#
+#m−3
+#
+#     0.91
+#
+#Boltzmann constant R/NA	
+#k
+#
+#  1.380 6488 ×10−23
+#
+#J K−1
+#
+Boltzmann constant=8.6173324*10**(−5)       # k                 eV K−1
+#Energy kT for T=273.15 K		
+#  0.023 538 243
+#
+#eV
+#Stefan-Boltzmann constant 2π5k4/15c2h3	
+#σ
+#
+#  5.670 373 ×10−8
+#
+#W m−2K−4
+#
+#Constant in Planck formula 2π hc2 †	c1	
+#  3.74177152 ×10−16
+#
+#W m2
+#Constant in Planck formula hc/k †	c2	
+#  1.438 770 ×10−2
+#
+#m K	 	 	 
+#Electrical constants	 	 	 	 
+#Josephson constant 2e/h	KJ	
+#  483 597.870
+#
+#GHz V−1
+#      0.022
+#Joesphson constant conventional value*	KJ-90	
+#  483 597.9
+#
+#GHz V−1
+#
+#Von Klitzing constant h/e2	RK	
+#  25 812.807 4434
+#
+#Ω
+#Von Klitzing constant conventional value*	RK-90	
+#  25 812.807
+#
+#Ω 2.417 989 350 ×1014
+#
+#Hz eV−1
+#
+#     0.022
