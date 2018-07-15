@@ -49,23 +49,14 @@ Compton_wavelength_of_electron=2.4263102389*10**(−12)     #   λc             
 #  0.665 245 8734 ×10−28
 #
 #m2
-#Bohr magneton eħ/2me
-#
-#μB
-#
-#  927.400 968 ×10−26
-#
+Bohr_magneton=927.400968*10**(−26)                        #      eħ/2me            μB
 #J T−1
 #Nuclear magneton eħ/2mp
 #
 #μN
-#
 #  5.050 783 53 ×10−27
-#
 #J T−1
-#
 #     0.022
-#
 #Ratio of masses proton/electron
 #
 #mp/me
@@ -89,12 +80,7 @@ Compton_wavelength_of_electron=2.4263102389*10**(−12)     #   λc             
 #
 #s−1 T−1		 	 	
 #Thermal Constants		 	 	 
-#Molar gas constant	
-#R
-#
-#  8.314 4621
-#
-#J mol−1 K−1
+Molar_gas_constant=8.3144621                    #   R       J mol−1 K−1
 #Loschmidt constant 
 #(number of molecules in 1 m3 of ideal gas at stp)	
 #
