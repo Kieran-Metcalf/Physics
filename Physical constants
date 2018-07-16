@@ -6,15 +6,15 @@ print (This is a list of fundamental physical constants without units)
 print (Source Institute of Physics Resources Kayle and Laybe)
 
 # Constant                                                #   symbol            unit
-Speed_of_light_in_vacuum=299 792 458                      #   c                 m s-1
-Planck_constant=6.62606957 ×10**(−34)                     #   h                 J s
-Planck_constant_over_2π=1.054 571 726 ×10−34              #   h bar             J s
+Speed_of_light_in_vacuum=299792458                        #   c                 m s-1
+Planck_constant=6.62606957*10**(−34)                      #   h                 J s
+Planck_constant_over_2π=1.054571726*10−34                 #   h bar             J s
 Elementary_charge=1.602176565*10**19                      #   e                 C
 Mass_of_electron=9.10938291*10**(−31)                     #   m<subscript>e     kg
 Avogadro_constant=6.02214129*10**23                       #   NA                mol−1
 Atomic_mass_constant=1.660538921*10**(−27)                #   mu                kg
 Faraday_constant=96485.3365                               #   F(=NAe)           C mol−1
-Newtonian_constant_of_gravitation=6.673 84 ×10−11         #   m3 kg−1s−2        G
+Newtonian_constant_of_gravitation=6.67384*10**(−11)       #   m3 kg−1s−2        G
 
 # Spectroscopy and atoms
 Charge_over_mass_ratio_of_electron=−1.758820088*10**11    #   −e/m<subscript>e   C kg−1
@@ -28,7 +28,7 @@ Gyromagnetic_ratio_of_proton=2.675222005*108
 	 	 	
 # Thermal Constants		 	 	 
 Molar_gas_constant=8.3144621                              #   R                  J mol−1 K−1
-Loschmidt_constant                                        #   2.686 7805 ×1025                   #(number of molecules in 1 m3 of ideal gas at stp)
+Loschmidt_constant=2.686 7805 ×1025                       #                                       (number of molecules in 1 m3 of ideal gas at stp)
  
 # Electrical constants	 	 	 	 
 Josephson=_constant=483597.870                            # 2e/h	KJ	
