@@ -5,11 +5,9 @@ print (This is a list of fundamental physical constants without units)
 # Source Institute of Physics Resources Kayle and Laybe
 print (Source Institute of Physics Resources Kayle and Laybe)
 
-# Constant                                                #   symbol            unit
-Speed_of_light_in_vacuum=299792458                        #   c                 m s-1
-Planck_constant=6.62606957*10**(−34)                      #   h                 J s
-Planck_constant_over_2π=1.054571726*10−34                 #   h bar             J s
-Elementary_charge=1.602176565*10**19                      #   e                 C
+c=299792458							#  Speed_of_light_in_vacuum	m s-1
+h=6.62606957*10**(−34)						#   Planck_constant		J s
+e=1.602176565*10**19						#   Elementary_charge		C
 Mass_of_electron=9.10938291*10**(−31)                     #   m<subscript>e     kg
 Avogadro_constant=6.02214129*10**23                       #   NA                mol−1
 Atomic_mass_constant=1.660538921*10**(−27)                #   mu                kg
