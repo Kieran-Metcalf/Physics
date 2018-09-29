@@ -1,0 +1,20 @@
+print('Wilson Hawkes Optoelectronics and Introduction LASERS I PROBLEMS')
+from math import *
+print('5.7 Calculate the mirror reflectances required to sustain laser oscillations in a laser which is 0.1m long, given that the small signal gain coefficent is 1m^-1 (assume that the mirrors have the same values of reflectance.')
+print(' ')
+print('ALL WE HAVE IS LENGTH OF LASER, SMALL SIGNAL GAIN COEFFICIENT & R1=R2')
+print('I AM ASSUMING  that the small signal gain coefficeint is the effective gain coefficient and use eqn 5.17 and operation at threshold gain')
+print('k_th-gamma=ESSGC   effectice small signal gain coefficient=k_threshold-effective loss coefficinet')
+L=0.5
+ESSGC=1
+# exp(ESSGC*2*L])=1/R^2
+# (R^2)*exp(ESSGC*2*L)=1
+R=sqrt(1/exp(ESSGC*2*L))
+print(R)
+print('reflectivity has no units')
+R=sqrt(1/exp(20))
+print(R)
+print('Incorrect')
+
+R=sqrt(1/exp(0.2))
+print(R)
