@@ -1,0 +1,43 @@
+  GNU nano 2.5.3                                  File: highdimarrays                                                                          
+
+'''
+******************** This is a python file higher dimensional arrays **********
+3 dim array is a tensor, is it possible to have higher dimentions than 3?
+Each time a 2 number array replaces one existing element
+'''
+#form time import *
+from numpy import *
+a=array([2,5])
+print(a)
+print(str(a.ndim)+' dimension a curvey graph representing a cross section of a hill')
+print(' ')
+
+a=array([2,4])
+b=array([5,3])
+a2=array([a,b])
+print(a2)
+print(str(a2.ndim)+' dimensions; a 2d plane representing some slopey, hilly land')
+print(' ')
+
+c=([4,7])
+d=([7,2])
+a3=array([[a,b],[c,d]])
+print(a3)
+print(str(a3.ndim)+' dimensions a density plot, e.g. mass density of an addaditive maufactured object, or a graided refractive index optical g$
+print(' ')
+
+e=([6,2])
+f=([9,0])
+g=([5,2])
+h=([1,0])
+a4=array([[[a,b],[c,d]],[[e,f],[g,h]]])
+print(a4)
+print(str(a4.ndim)+' dimensions, a tensor such as a vector field where the information of the 3-space position and 3-space magitude is recorde$
+
+i=([8,0])
+j=([3,4])
+k=([7,6])
+l=([1,2])
+                                                              [ Unknown Command ]
+^G Get Help    ^O Write Out   ^W Where Is    ^K Cut Text    ^J Justify     ^C Cur Pos     ^Y Prev Page   M-\ First Line M-W WhereIs Next
+^X Exit        ^R Read File   ^\ Replace     ^U Uncut Text  ^T To Spell    ^_ Go To Line  ^V Next Page   M-/ Last Line  M-] To Bracket
