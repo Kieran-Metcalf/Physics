@@ -1,0 +1,16 @@
+'''
+particle physics card game
+'''
+
+class Card:
+
+	def_init_(self, name, duality, mass):
+		self.name = name
+		self.duality = duality
+		self.mass
+
+	def_repr_(self):
+		return self.name + " of " + self.suit
+
+my_card = Card("proton","particle","1.660539040(20)×10−27")
+print(my_card)
