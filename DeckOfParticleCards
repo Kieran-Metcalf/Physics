@@ -1,16 +1,19 @@
 '''
+***** python3 ****
 particle physics card game
 '''
 
 class Card:
 
-	def_init_(self, name, duality, mass):
-		self.name = name
-		self.duality = duality
-		self.mass
+        def __init__ (self, name, spin, ):
+                self.name = name
+                self.spin = spin
 
-	def_repr_(self):
-		return self.name + " of " + self.suit
+        def __repr__ (self):
+                return self.name + " with spin " + self.spin
 
-my_card = Card("proton","particle","1.660539040(20)×10−27")
+my_card = Card("electron","up")
 print(my_card)
+my_card = Card("electron","down")
+print(my_card)
+
